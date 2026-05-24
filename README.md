@@ -1,6 +1,16 @@
 what remain 
 
-1.proper README
-2.integration test
-3.programatic verification
-4.push to Github
+1.proper README ✅
+2.integration test ✅
+3.programatic verification ✅
+4.push to Github ✅
+
+# About
+
+This is crowd sourcing app!!
+
+# getting started
+
+## Requirements
+
+## Quick start
